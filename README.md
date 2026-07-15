@@ -1,8 +1,8 @@
-### Hi there! <img src="./assets/blob-smile-happy-gif.gif" width="24" alt="Waving blob">
+### Hi there! <img src="./assets/blob-smile-happy-gif.gif" width="25" alt="Waving blob">
 
-<p>I'm Michelle, a software developer from Toronto, Canada.</p>
+I'm [**Michelle**](https://mxchxllx.com), a software developer from Toronto, Canada.
 
-##### **See My Portfolio**: [https://mxchxllx.com](https://mxchxllx.com)
+
 
 <!--
 **w-michelle/w-michelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
