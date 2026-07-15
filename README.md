@@ -1,6 +1,6 @@
-#### Hi there! 👋 
+### Hi there! <img src="./assets/blob-smile-happy-gif.gif" width="24" alt="Waving blob">
 
-##### I'm Michelle, a software developer from Toronto, Canada.
+<p>I'm Michelle, a software developer from Toronto, Canada.</p>
 
 ##### **See My Portfolio**: [https://mxchxllx.com](https://mxchxllx.com)
 
