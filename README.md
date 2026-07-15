@@ -1,4 +1,8 @@
-## Hi there 👋
+#### Hi there! 👋 
+
+##### I'm Michelle, a software developer from Toronto, Canada.
+
+##### **See My Portfolio**: [https://mxchxllx.com](https://mxchxllx.com)
 
 <!--
 **w-michelle/w-michelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
